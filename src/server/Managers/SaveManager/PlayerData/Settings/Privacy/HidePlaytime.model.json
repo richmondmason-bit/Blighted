@@ -1,0 +1,8 @@
+{
+  "className": "BoolValue",
+  "attributes": {
+    "DisplayDescription": "Hides the amount of time that you've been playing the game for.",
+    "DisplayTitle": "Hide Playtime",
+    "LayoutOrder": 1.0
+  }
+}

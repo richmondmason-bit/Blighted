@@ -1,0 +1,7 @@
+{
+  "className": "NumberValue",
+  "attributes": {
+    "DisplayTitle": "Survivor Wins",
+    "LayoutOrder": 1.0
+  }
+}

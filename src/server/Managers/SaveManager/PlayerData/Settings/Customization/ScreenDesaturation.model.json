@@ -1,0 +1,11 @@
+{
+  "className": "BoolValue",
+  "properties": {
+    "Value": true
+  },
+  "attributes": {
+    "DisplayDescription": "If checked, a desaturation effect will be applied to the camera when low on health",
+    "DisplayTitle": "Screen Desaturation When Low",
+    "LayoutOrder": 2.0
+  }
+}

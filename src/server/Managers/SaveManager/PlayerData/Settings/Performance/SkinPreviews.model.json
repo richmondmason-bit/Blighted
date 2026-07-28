@@ -1,0 +1,11 @@
+{
+  "className": "BoolValue",
+  "properties": {
+    "Value": true
+  },
+  "attributes": {
+    "DisplayDescription": "When checked, skin previews will show in the shop and in the inventory when hovering over them.",
+    "DisplayTitle": "Skin Previews",
+    "LayoutOrder": 1.0
+  }
+}

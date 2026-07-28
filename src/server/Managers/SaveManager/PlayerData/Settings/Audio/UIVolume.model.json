@@ -1,0 +1,14 @@
+{
+  "className": "NumberValue",
+  "properties": {
+    "Value": 100.0
+  },
+  "attributes": {
+    "DisplayDescription": "How loud UI sound effects (buttons...) are",
+    "DisplayTitle": "UI Volume",
+    "LayoutOrder": 4.0,
+    "MaxValue": 200.0,
+    "MinValue": 0.0,
+    "PostDisplayTitle": "%"
+  }
+}

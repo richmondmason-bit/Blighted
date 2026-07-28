@@ -1,0 +1,14 @@
+{
+  "className": "NumberValue",
+  "properties": {
+    "Value": 100.0
+  },
+  "attributes": {
+    "DisplayDescription": "How loud sound effects (footsteps, attacks...) are",
+    "DisplayTitle": "SFX Volume",
+    "LayoutOrder": 2.0,
+    "MaxValue": 200.0,
+    "MinValue": 0.0,
+    "PostDisplayTitle": "%"
+  }
+}

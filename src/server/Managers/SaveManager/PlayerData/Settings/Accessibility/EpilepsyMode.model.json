@@ -1,0 +1,8 @@
+{
+  "className": "BoolValue",
+  "attributes": {
+    "DisplayDescription": "<b>WARNING: Even with this enabled, it's still recommended to avoid playing if you're epileptic!</b>",
+    "DisplayTitle": "Epilepsy Mode",
+    "LayoutOrder": 1.0
+  }
+}

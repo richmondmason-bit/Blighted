@@ -1,0 +1,11 @@
+{
+  "className": "BoolValue",
+  "properties": {
+    "Value": true
+  },
+  "attributes": {
+    "DisplayDescription": "If unchecked, every screen shake effect in the game will be disabled",
+    "DisplayTitle": "Screen Shaking Enabled",
+    "LayoutOrder": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "className": "BoolValue",
+  "attributes": {
+    "DisplayDescription": "Keeps you from being put into matches when enabled.",
+    "DisplayTitle": "AFK Mode",
+    "LayoutOrder": 2.0
+  }
+}

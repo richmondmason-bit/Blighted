@@ -1,0 +1,8 @@
+{
+  "className": "BoolValue",
+  "attributes": {
+    "DisplayDescription": "If checked, the selected killer's intro when starting a match won't load nor play.",
+    "DisplayTitle": "Disable Killer Intros",
+    "LayoutOrder": 3.0
+  }
+}

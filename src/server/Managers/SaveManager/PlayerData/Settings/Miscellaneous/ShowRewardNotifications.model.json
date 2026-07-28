@@ -1,0 +1,11 @@
+{
+  "className": "BoolValue",
+  "properties": {
+    "Value": true
+  },
+  "attributes": {
+    "DisplayDescription": "If unchecked, the notifications that show up when you gain money or EXP won't show up.",
+    "DisplayTitle": "Show Reward Notifications",
+    "LayoutOrder": 4.0
+  }
+}

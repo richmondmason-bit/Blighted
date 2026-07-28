@@ -1,0 +1,8 @@
+{
+  "className": "NumberValue",
+  "attributes": {
+    "DisplayTitle": "Net Worth",
+    "LayoutOrder": 2.0,
+    "PostDisplayTitle": "$"
+  }
+}

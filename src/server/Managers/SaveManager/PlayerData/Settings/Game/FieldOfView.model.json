@@ -1,0 +1,13 @@
+{
+  "className": "NumberValue",
+  "properties": {
+    "Value": 70.0
+  },
+  "attributes": {
+    "DisplayDescription": "Your camera's FOV.",
+    "DisplayTitle": "Field Of View",
+    "LayoutOrder": 1.0,
+    "MaxValue": 80.0,
+    "MinValue": 20.0
+  }
+}

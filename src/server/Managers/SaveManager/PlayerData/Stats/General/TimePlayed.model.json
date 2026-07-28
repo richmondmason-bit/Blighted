@@ -1,0 +1,9 @@
+{
+  "className": "NumberValue",
+  "attributes": {
+    "DisplayTitle": "Time Played",
+    "FormatTime": true,
+    "LayoutOrder": 1.0,
+    "PostDisplayTitle": "[D:]H:M:S"
+  }
+}

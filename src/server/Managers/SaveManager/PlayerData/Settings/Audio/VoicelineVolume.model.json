@@ -1,0 +1,14 @@
+{
+  "className": "NumberValue",
+  "properties": {
+    "Value": 100.0
+  },
+  "attributes": {
+    "DisplayDescription": "How loud the voicelines said by characters are.",
+    "DisplayTitle": "Voiceline Volume",
+    "LayoutOrder": 3.0,
+    "MaxValue": 200.0,
+    "MinValue": 0.0,
+    "PostDisplayTitle": "%"
+  }
+}

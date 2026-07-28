@@ -1,0 +1,8 @@
+{
+  "className": "BoolValue",
+  "attributes": {
+    "DisplayDescription": "(MEME SETTING) Shows a random image for a brief moment whenever you're hit or you hit someone",
+    "DisplayTitle": "Image Flash On Hit",
+    "LayoutOrder": 2.0
+  }
+}

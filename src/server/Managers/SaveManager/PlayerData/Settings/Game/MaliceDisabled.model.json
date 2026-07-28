@@ -1,0 +1,8 @@
+{
+  "className": "BoolValue",
+  "attributes": {
+    "DisplayDescription": "When enabled, you won't gain any malice, lessening your chance to become killer.",
+    "DisplayTitle": "Disable Being Killer",
+    "LayoutOrder": 3.0
+  }
+}

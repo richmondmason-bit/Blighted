@@ -1,0 +1,7 @@
+{
+  "attributes": {
+    "DisplayDescription": "The ID of the sound that'll play when landing a hit (when the hitmarker shows up)",
+    "DisplayTitle": "Hitsound ID",
+    "LayoutOrder": 1.0
+  }
+}
