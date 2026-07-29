@@ -4,28 +4,16 @@
     "$className": "DataModel",
     "Lighting": {
       "$properties": {
-        "Ambient": [
-          0.0,
-          0.0,
-          0.0
-        ],
+        "Ambient": [0.0, 0.0, 0.0],
         "Brightness": 2.0,
         "EnvironmentDiffuseScale": 1.0,
         "EnvironmentSpecularScale": 1.0,
         "ExposureCompensation": 1.2400000095367432,
-        "FogColor": [
-          0.7529412508010864,
-          0.7529412508010864,
-          0.7529412508010864
-        ],
+        "FogColor": [0.7529412508010864, 0.7529412508010864, 0.7529412508010864],
         "GeographicLatitude": 0.0,
         "GlobalShadows": true,
         "LightingStyle": "Realistic",
-        "OutdoorAmbient": [
-          0.27450981736183167,
-          0.27450981736183167,
-          0.27450981736183167
-        ],
+        "OutdoorAmbient": [0.27450981736183167, 0.27450981736183167, 0.27450981736183167],
         "Outlines": false,
         "PrioritizeLightingQuality": true,
         "ShadowSoftness": 0.20000000298023224,
@@ -34,14 +22,10 @@
       }
     },
     "ReplicatedStorage": {
-      "Shared": {
-        "$path": "src/ReplicatedStorage/Shared"
-      }
+      "$path": "src/ReplicatedStorage"
     },
     "ServerScriptService": {
-      "Server": {
-        "$path": "src/ServerScriptService/Server"
-      }
+      "$path": "src/ServerScriptService"
     },
     "SoundService": {
       "$properties": {
@@ -52,9 +36,7 @@
     },
     "StarterPlayer": {
       "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/StarterPlayerScripts/Client"
-        }
+        "$path": "src/StarterPlayerScripts"
       },
       "$properties": {
         "CameraMaxZoomDistance": 15.0,
@@ -68,38 +50,13 @@
         "$className": "Part",
         "$properties": {
           "Anchored": true,
-          "CFrame": [
-            0.0,
-            -10.0,
-            0.0,
-            1.0,
-            0.0,
-            0.0,
-            0.0,
-            1.0,
-            0.0,
-            0.0,
-            0.0,
-            1.0
-          ],
+          "CFrame": [0.0, -10.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
           "Color": {
-            "Color3uint8": [
-              98,
-              94,
-              98
-            ]
+            "Color3uint8": [98, 94, 98]
           },
           "Locked": true,
-          "Position": [
-            0.0,
-            -10.0,
-            0.0
-          ],
-          "Size": [
-            512.0,
-            20.0,
-            512.0
-          ]
+          "Position": [0.0, -10.0, 0.0],
+          "Size": [512.0, 20.0, 512.0]
         }
       },
       "$properties": {
@@ -118,27 +75,11 @@
         "StreamingIntegrityMode": "Disabled",
         "WorldPivotData": {
           "OptionalCFrame": {
-            "position": [
-              0.0,
-              0.0,
-              0.0
-            ],
+            "position": [0.0, 0.0, 0.0],
             "orientation": [
-              [
-                1.0,
-                0.0,
-                0.0
-              ],
-              [
-                0.0,
-                1.0,
-                0.0
-              ],
-              [
-                0.0,
-                0.0,
-                1.0
-              ]
+              [1.0, 0.0, 0.0],
+              [0.0, 1.0, 0.0],
+              [0.0, 0.0, 1.0]
             ]
           }
         }
